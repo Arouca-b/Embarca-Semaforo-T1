@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Temporizador-T1.uf2'
+elf = 'build/Temporizador-T1.elf'
